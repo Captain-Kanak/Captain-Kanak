@@ -1,6 +1,10 @@
-## Hi 👋, I am Kanak Ray
+# 👋 Hi, I'm Kanak Ray
 
-Professional Full Stack Web Developer
+**Full-Stack Web Developer | JavaScript | React | Node.js | Express | MongoDB**
+
+💻 I build fast, scalable, and user-friendly web applications.  
+🎯 Currently learning advanced backend & cloud deployment.  
+📍 From Bangladesh | Open to collaboration & freelance work. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/captain-kanak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanakroy835@gmail.com) 
