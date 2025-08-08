@@ -1,5 +1,5 @@
 <!-- Banner -->
-![GitHub Banner](https://i.ibb.co/5TQ5m9n/github-banner.png) <!-- Replace with your own banner -->
+![GitHub Banner]([https://i.ibb.co/5TQ5m9n/github-banner.png](https://i.ibb.co.com/20LYqQGs/Black-Modern-Minimalist-Simple-Technology-Banner.png)) 
 
 # 👋 Hi, I'm Kanak Ray  
 **Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**
