@@ -1,6 +1,6 @@
 ## Hi 👋, I am Kanak Ray
 
-##
+#
 Professional Full Stack Web Developer
 
 ## 🌐 Socials:
