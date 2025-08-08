@@ -12,6 +12,7 @@
 **Mobile: +88 01704 210835**
 
 **Email: kanakroy835@gmail.com**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/captain-kanak) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakroy835@gmail.com)
 
