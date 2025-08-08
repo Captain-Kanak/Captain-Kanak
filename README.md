@@ -15,7 +15,7 @@ I’m always eager to collaborate and contribute to exciting projects that solve
 
 ## 📌 Current Activities
 - 🚀 Exploring **Next.js** for advanced frontend development.  
-- 🌍 Building a **Tourism Website** project.  
+- 🌍 Building a **Medical Camp Management System** project.  
 - ☁️ Learning **cloud deployment & backend optimization**.  
 - 🤝 Open to **freelance work and collaborations**.  
 
