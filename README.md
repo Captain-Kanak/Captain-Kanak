@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Kanak Ray  
 
 **Mobile: +88 01704 210835**
+
 **Email: kanakroy835@gmail.com**
 
 **Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**  
