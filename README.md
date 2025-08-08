@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co.com/20LYqQGs/Black-Modern-Minimalist-Simple-Technology-Banner.png)
+![Banner](./banner.png)
 
 # 👋 Hi, I'm Kanak Ray  
 **Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**
