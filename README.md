@@ -4,6 +4,10 @@
 # 👋 Hi, I'm Kanak Ray  
 **Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**
 
+📍 **Location:** Bangladesh  
+📱 **WhatsApp:** +88 01704 210835  
+📧 **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com) 
+
 ---
 
 ## 🧑‍💻 About Me
@@ -22,10 +26,6 @@ I’m always eager to collaborate and contribute to exciting projects that solve
 ---
 
 ## 🌐 Connect with Me
-📍 **Location:** Bangladesh  
-📱 **WhatsApp:** +88 01704 210835  
-📧 **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com)  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/captain-kanak)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Captain-Kanak)  
 
