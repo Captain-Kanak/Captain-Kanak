@@ -57,5 +57,3 @@
 
 ## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Captain-Kanak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
