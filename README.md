@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Connect with Me
-**Mobile: +88 01704 210835**
+**WhatsApp: +88 01704 210835**
 
 **Email: kanakroy835@gmail.com**
 
