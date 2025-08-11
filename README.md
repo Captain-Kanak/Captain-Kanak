@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Banner](./banner.png)
 
-# 👋 Hi, I'm Kanak Ray  
+# 👋 Hi, I'm Kanak  
 **Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**
 
 📍 **Location:** Bangladesh  
