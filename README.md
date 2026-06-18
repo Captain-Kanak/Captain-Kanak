@@ -72,7 +72,7 @@ I’m a passionate **Full-Stack Developer** from Bangladesh, dedicated to crafti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Captain-Kanak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Kanak's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Captain-Kanak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Kanak's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Kanak&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="200" />
 </p>
 
