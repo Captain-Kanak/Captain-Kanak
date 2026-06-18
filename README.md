@@ -2,14 +2,14 @@
 ![Banner](./my-banner.png)
 
 <!-- Introduction -->
-# 👋 Hi, I'm Kanak
+# 👋 Hi, I'm Kanak Ray
 ### Full-Stack Web Developer | TypeScript, Node.js, Go & PostgreSQL
 
 📌 **Connect with me:**
 
-🗺️ **Location:** Rangpur, Bangladesh
-💬 **WhatsApp:** [+88 01704 210835](https://wa.me/8801704210835)
-✉️ **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com)
+🗺️ **Location:** Rangpur, Bangladesh 
+💬 **WhatsApp:** [+88 01704 210835](https://wa.me/8801704210835) 
+✉️ **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com) 
 
 ---
 
