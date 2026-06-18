@@ -1,12 +1,15 @@
-<!-- Banner -->
+<!-- Banner Image -->
 ![Banner](./my-banner.png)
 
-# 👋 Hi, I'm Kanak  
-**Full-Stack Web Developer | Node.js, TypeScript & PostgreSQL | MERN Stack**
+<!-- Introduction -->
+# 👋 Hi, I'm Kanak
+### Full-Stack Web Developer | TypeScript, Node.js, Go & PostgreSQL
 
-📍 **Location:** Bangladesh  
-📱 **WhatsApp:** +88 01704 210835  
-📧 **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com) 
+📌 **Connect with me:**
+
+🗺️ **Location:** Rangpur, Bangladesh
+💬 **WhatsApp:** [+88 01704 210835](https://wa.me/8801704210835)
+✉️ **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com)
 
 ---
 
