@@ -7,9 +7,9 @@
 
 📌 **Connect with me:**
 
-🗺️ **Location:** Rangpur, Bangladesh 
-💬 **WhatsApp:** [+88 01704 210835](https://wa.me/8801704210835) 
-✉️ **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com) 
+- 🗺️ **Location:** Rangpur, Bangladesh
+- 💬 **WhatsApp:** [+88 01704 210835](https://wa.me/8801704210835)
+- ✉️ **Email:** [kanakroy835@gmail.com](mailto:kanakroy835@gmail.com)
 
 ---
 
