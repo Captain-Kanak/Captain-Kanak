@@ -2,7 +2,7 @@
 ![Banner](./banner.png)
 
 # 👋 Hi, I'm Kanak  
-**Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**
+**Full-Stack Web Developer | Node.js, TypeScript & PostgreSQL | MERN Stack**
 
 📍 **Location:** Bangladesh  
 📱 **WhatsApp:** +88 01704 210835  
@@ -11,17 +11,17 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m a passionate full-stack developer from Bangladesh, skilled in building fast, scalable, and user-friendly web applications.  
-I love exploring modern JavaScript frameworks and creating impactful digital solutions.  
+I’m a passionate full-stack developer from Bangladesh, skilled in building fast, scalable, type-safe, and user-friendly web applications.  
+I love exploring modern JavaScript/TypeScript ecosystems, optimizing database structures, and creating impactful digital solutions.  
 I’m always eager to collaborate and contribute to exciting projects that solve real-world problems.
 
 ---
 
 ## 📌 Current Activities
-- 🚀 Exploring **Next.js** for advanced frontend development.  
-- 🌍 Building a **Medical Camp Management System** project.  
-- ☁️ Learning **cloud deployment & backend optimization**.  
-- 🤝 Open to **freelance work and collaborations**.  
+- 🚀 Exploring **Next.js** & **TanStack Query** for advanced frontend architecture.  
+- 🌍 Building a **Medical Camp Management System** and sustainability platforms.  
+- ☁️ Scaling apps with **PostgreSQL, Prisma, and cloud deployments**.  
+- 🤝 Open to **freelance work, remote roles, and collaborations**.  
 
 ---
 
@@ -34,36 +34,35 @@ I’m always eager to collaborate and contribute to exciting projects that solve
 
 ## 🚀 Skills
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages & Core**  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**  
+**Backend & Databases**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Database & Auth**  
+![Express.js](https://img.shapes.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Tools & Platforms**  
+**Auth, Tools & Architecture**  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-**Other Skills**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+**Design & CMS**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
