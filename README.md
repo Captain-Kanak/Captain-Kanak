@@ -77,7 +77,7 @@ I’m a passionate **Full-Stack Developer** from Bangladesh, dedicated to crafti
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Captain-Kanak&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Captain-Kanak&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
