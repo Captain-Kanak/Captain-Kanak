@@ -20,18 +20,11 @@ I’m a passionate **Full-Stack Developer** from Bangladesh, dedicated to crafti
 
 ---
 
-## 📌 Current Activities
-- 🚀 Exploring **Next.js** & **TanStack Query** for advanced frontend architecture.  
-- 🌍 Building a **Medical Camp Management System** and sustainability platforms.  
-- ☁️ Scaling apps with **PostgreSQL, Prisma, and cloud deployments**.  
-- 🤝 Open to **freelance work, remote roles, and collaborations**.  
-
----
-
 ## 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/captain-kanak) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Captain-Kanak) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/captain_kanak00) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/captain_kanak00)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/captainkanak)
 
 ---
 
