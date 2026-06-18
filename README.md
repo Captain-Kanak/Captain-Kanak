@@ -3,6 +3,8 @@
 # 👋 Hi, I'm Kanak Ray
 ### Full-Stack Web Developer | TypeScript, Node.js, Go & PostgreSQL
 
+🚀 **[🌐 Visit My Live Portfolio](https://kanak-portfolio-hazel.vercel.app)**
+
 📌 **Connect with me:**
 
 - 🗺️ **Location:** Rangpur, Bangladesh
