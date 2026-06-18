@@ -1,7 +1,5 @@
-<!-- Banner Image -->
 ![Banner](./my-banner.png)
 
-<!-- Introduction -->
 # 👋 Hi, I'm Kanak Ray
 ### Full-Stack Web Developer | TypeScript, Node.js, Go & PostgreSQL
 
@@ -14,9 +12,11 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m a passionate full-stack developer from Bangladesh, skilled in building fast, scalable, type-safe, and user-friendly web applications.  
-I love exploring modern JavaScript/TypeScript ecosystems, optimizing database structures, and creating impactful digital solutions.  
-I’m always eager to collaborate and contribute to exciting projects that solve real-world problems.
+I’m a passionate **Full-Stack Developer** from Bangladesh, dedicated to crafting fast, scalable, and type-safe web ecosystems. 
+
+- 💻 **What I Do:** Build end-to-end web applications leveraging the power of **TypeScript**, **Node/Express.js**, **GO**, **React/Next.js**, and robust backend architectures.
+- 🗄️ **Database & Optimization:** Experienced in relational and non-relational databases (**PostgreSQL & MongoDB**), utilizing **Prisma** to ensure data integrity and optimized queries.
+- 🚀 **My Goal:** To write clean, maintainable code and collaborate on impactful digital solutions that solve real-world problems.
 
 ---
 
