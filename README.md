@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./banner.png)
+![Banner](./my-banner.png)
 
 # 👋 Hi, I'm Kanak  
 **Full-Stack Web Developer | Node.js, TypeScript & PostgreSQL | MERN Stack**
