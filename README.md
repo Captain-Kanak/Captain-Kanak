@@ -70,11 +70,21 @@ I’m a passionate **Full-Stack Developer** from Bangladesh, dedicated to crafti
 ---
 
 ## 📊 GitHub Stats
-![Kanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Captain-Kanak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Captain-Kanak&theme=tokyonight&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Kanak&theme=tokyonight&hide_border=false&layout=compact)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Captain-Kanak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Kanak's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Kanak&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Captain-Kanak&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Captain-Kanak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Badges & Achievements
+
+<!-- Using standard GitHub markdown to showcase your real earned badges cleanly -->
+<p align="left">
+  <img src="https://github-badges.vercel.app/api/badges?user=Captain-Kanak&theme=tokyonight" alt="GitHub Badges" />
+</p>
